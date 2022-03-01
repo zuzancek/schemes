@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T07:44:16.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="d2wuoX_DGhdtblH5wCjP" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T07:45:37.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="rTbDSQ9bgR8gRLgdcKnk" version="16.6.4" type="github">
   <diagram id="GxeuKTXnx9VGVfUCvlwk" name="Page-1">
     <mxGraphModel dx="1094" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -47,7 +47,7 @@
             <mxPoint x="5" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXL8oJjJBJb_XbVYSXAR-2" value="Zvšok populácie&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
+        <mxCell id="LXL8oJjJBJb_XbVYSXAR-2" value="Zvyšok populácie&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="66" y="214" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LXL8oJjJBJb_XbVYSXAR-3" value="Mŕtvy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
@@ -136,7 +136,7 @@
             <mxPoint x="5" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXL8oJjJBJb_XbVYSXAR-22" value="Zvšok populácie&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="LXL8oJjJBJb_XbVYSXAR-22" value="Zvyšok populácie&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="161" y="498" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LXL8oJjJBJb_XbVYSXAR-23" value="Mŕtvy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
