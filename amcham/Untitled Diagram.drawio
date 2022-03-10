@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T05:53:21.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" version="16.6.7" etag="OymiEOM-d73phMnwuL3H" type="github"><diagram id="5BfKaYPwZbyXiQWNCu8P">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-10T06:03:34.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="Pj3ii1OgxJ_7GXh124Ur" version="16.6.7" type="github">
+  <diagram id="5BfKaYPwZbyXiQWNCu8P" name="Page-1">
+    <mxGraphModel dx="1532" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DNH79AlMDYvGOf458UXy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNH79AlMDYvGOf458UXy-1" target="DNH79AlMDYvGOf458UXy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNH79AlMDYvGOf458UXy-1" value="demografická projekcia pacientov" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=#CCE5FF;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DNH79AlMDYvGOf458UXy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DNH79AlMDYvGOf458UXy-2" target="DNH79AlMDYvGOf458UXy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNH79AlMDYvGOf458UXy-2" value="sociodemografická štruktúra pacientov" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=#CCE5FF;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DNH79AlMDYvGOf458UXy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNH79AlMDYvGOf458UXy-3" target="DNH79AlMDYvGOf458UXy-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNH79AlMDYvGOf458UXy-3" value="sociodemografická projekcia pacientov" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#3399FF;fontStyle=1;strokeColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DNH79AlMDYvGOf458UXy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNH79AlMDYvGOf458UXy-4" target="DNH79AlMDYvGOf458UXy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNH79AlMDYvGOf458UXy-4" value="súčasné jednotkové náklady a straty&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#F8CECC;fontStyle=1;strokeColor=#F19C99;" vertex="1" parent="1">
+          <mxGeometry x="450" y="60" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DNH79AlMDYvGOf458UXy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DNH79AlMDYvGOf458UXy-5" target="DNH79AlMDYvGOf458UXy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNH79AlMDYvGOf458UXy-5" value="cenové trendy" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#F8CECC;fontStyle=1;strokeColor=#F19C99;" vertex="1" parent="1">
+          <mxGeometry x="620" y="60" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DNH79AlMDYvGOf458UXy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNH79AlMDYvGOf458UXy-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNH79AlMDYvGOf458UXy-6" value="projekcia jednotkových nákladov a strát" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;gradientColor=#F19C99;strokeColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="530" y="180" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DNH79AlMDYvGOf458UXy-7" value="projekcia celkových nákladov a strát" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;gradientColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="370" y="276" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
