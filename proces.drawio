@@ -1,0 +1,119 @@
+<mxfile host="app.diagrams.net" modified="2022-03-16T23:37:07.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="4WbnOQOCz7eShWsq0QHy" version="17.1.0" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1550" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vxkK6xeMxCwbw3WEU4i4-2" target="vxkK6xeMxCwbw3WEU4i4-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-2" value="projekcia kmeňa pacientov" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=#D4E1F5;strokeColor=#A9C4EB;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="456" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vxkK6xeMxCwbw3WEU4i4-4" target="vxkK6xeMxCwbw3WEU4i4-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-4" value="výber &lt;br&gt;diagnóz" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontStyle=1;fontSize=15;fontColor=#660033;" parent="1" vertex="1">
+          <mxGeometry x="276" y="165" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vxkK6xeMxCwbw3WEU4i4-5" target="vxkK6xeMxCwbw3WEU4i4-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-5" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="426" y="125" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vxkK6xeMxCwbw3WEU4i4-6" target="vxkK6xeMxCwbw3WEU4i4-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-6" value="projekcia nákladov a strát" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=#D4E1F5;strokeColor=#A9C4EB;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="606" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vxkK6xeMxCwbw3WEU4i4-7" target="vxkK6xeMxCwbw3WEU4i4-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-7" value="analýza citlivosti" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=#D4E1F5;strokeColor=#A9C4EB;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="754" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vxkK6xeMxCwbw3WEU4i4-8" target="vxkK6xeMxCwbw3WEU4i4-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-8" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="901" y="125" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="vxkK6xeMxCwbw3WEU4i4-9" target="vxkK6xeMxCwbw3WEU4i4-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-9" value="výber investíčných šokov" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontStyle=1;fontSize=15;fontColor=#660033;" parent="1" vertex="1">
+          <mxGeometry x="981" y="261" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vxkK6xeMxCwbw3WEU4i4-10" target="vxkK6xeMxCwbw3WEU4i4-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-10" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="898.5" y="311" width="15" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vxkK6xeMxCwbw3WEU4i4-18" target="vxkK6xeMxCwbw3WEU4i4-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-18" value="úprava projekcie kmeňa pacientov" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=#FFF4C3;strokeColor=#d6b656;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="754" y="361" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vxkK6xeMxCwbw3WEU4i4-19" target="vxkK6xeMxCwbw3WEU4i4-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-19" value="úprava projekcie nákladov a strát" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=#FFF4C3;strokeColor=#d6b656;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="609" y="361" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vxkK6xeMxCwbw3WEU4i4-20" target="vxkK6xeMxCwbw3WEU4i4-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-20" value="kalkulácia investičných výnosov" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=#FFF4C3;strokeColor=#d6b656;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="459" y="361" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vxkK6xeMxCwbw3WEU4i4-26" target="vxkK6xeMxCwbw3WEU4i4-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-26" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="426" y="311" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-28" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="331" y="376" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-37" value="Benčmark diagnózy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="639.5" y="41" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="vxkK6xeMxCwbw3WEU4i4-38" target="vxkK6xeMxCwbw3WEU4i4-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-38" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#4D4D4D;fillColor=#FFFFFF;gradientColor=#FFF4C3;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="654" y="-93" width="31" height="407" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="vxkK6xeMxCwbw3WEU4i4-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="666" y="509" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#4D4D4D;fillColor=#FFFFFF;gradientColor=#FFF4C3;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="650.5" y="261" width="31" height="407" as="geometry" />
+        </mxCell>
+        <mxCell id="vxkK6xeMxCwbw3WEU4i4-41" value="Dopad investičného šoku" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="606" y="517" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dUMAS8sABjfLAXOTjIqZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="dUMAS8sABjfLAXOTjIqZ-3" target="vxkK6xeMxCwbw3WEU4i4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUMAS8sABjfLAXOTjIqZ-3" value="určenie časového horizontu" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontStyle=1;fontSize=15;fontColor=#660033;" vertex="1" parent="1">
+          <mxGeometry x="100" y="165" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dUMAS8sABjfLAXOTjIqZ-8" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="145" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUMAS8sABjfLAXOTjIqZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=14;" edge="1" source="dUMAS8sABjfLAXOTjIqZ-8" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
