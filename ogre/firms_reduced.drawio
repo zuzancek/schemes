@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T09:43:54.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="G5JlSD7Sx5jg7zWRG3J0" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T09:44:45.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jpoDYS1hwhKaxPp0WOTe" version="21.5.0" type="github">
   <diagram name="Page-1" id="tMCMHhbmJrTcd6gPD3CS">
     <mxGraphModel dx="1050" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -87,8 +87,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330" y="130" />
-              <mxPoint x="150" y="130" />
-              <mxPoint x="150" y="330" />
+              <mxPoint x="180" y="130" />
+              <mxPoint x="180" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -98,16 +98,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FzMrSRu2-M5TTz-W8zS9-40" value="Households" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="178" width="240" height="60" as="geometry" />
+          <mxGeometry x="210" y="184" width="240" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FzMrSRu2-M5TTz-W8zS9-41" value="Old Households" style="swimlane;startSize=20;html=1;swimlaneLine=0;rounded=1;" vertex="1" parent="FzMrSRu2-M5TTz-W8zS9-40">
-          <mxGeometry y="20" width="120" height="40" as="geometry" />
+          <mxGeometry y="20" width="120" height="28" as="geometry" />
         </mxCell>
         <mxCell id="FzMrSRu2-M5TTz-W8zS9-42" value="Young Households" style="swimlane;startSize=20;html=1;swimlaneLine=0;rounded=1;" vertex="1" parent="FzMrSRu2-M5TTz-W8zS9-40">
-          <mxGeometry x="120" y="20" width="120" height="40" as="geometry" />
+          <mxGeometry x="120" y="20" width="120" height="28" as="geometry" />
         </mxCell>
         <mxCell id="FzMrSRu2-M5TTz-W8zS9-45" value="Labor, Net Wage" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FzMrSRu2-M5TTz-W8zS9-42" target="FzMrSRu2-M5TTz-W8zS9-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.1803" y="-12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
