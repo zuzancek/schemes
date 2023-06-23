@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T09:44:45.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jpoDYS1hwhKaxPp0WOTe" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T09:56:57.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LgMFNFT2RduXc3OBJk12" version="21.5.0" type="github">
   <diagram name="Page-1" id="tMCMHhbmJrTcd6gPD3CS">
     <mxGraphModel dx="1050" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -21,6 +21,28 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FzMrSRu2-M5TTz-W8zS9-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FzMrSRu2-M5TTz-W8zS9-2" target="FzMrSRu2-M5TTz-W8zS9-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="761" y="210" />
+              <mxPoint x="761" y="154" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzMrSRu2-M5TTz-W8zS9-52" value="Old-Age Pension contributions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FzMrSRu2-M5TTz-W8zS9-51">
+          <mxGeometry x="-0.095" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzMrSRu2-M5TTz-W8zS9-53" value="Taxes, Other Contributions" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FzMrSRu2-M5TTz-W8zS9-2" target="FzMrSRu2-M5TTz-W8zS9-49">
+          <mxGeometry x="-0.1099" y="9" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="761" y="218" />
+              <mxPoint x="761" y="262" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FzMrSRu2-M5TTz-W8zS9-2" value="Domestic Producers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="572" y="188" width="120" height="60" as="geometry" />
         </mxCell>
@@ -39,17 +61,17 @@
         <mxCell id="FzMrSRu2-M5TTz-W8zS9-3" value="Importers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="572" y="425" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FzMrSRu2-M5TTz-W8zS9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FzMrSRu2-M5TTz-W8zS9-4" target="FzMrSRu2-M5TTz-W8zS9-1">
+        <mxCell id="FzMrSRu2-M5TTz-W8zS9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="FzMrSRu2-M5TTz-W8zS9-4" target="FzMrSRu2-M5TTz-W8zS9-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="742" y="330" />
-              <mxPoint x="742" y="115" />
+              <mxPoint x="1040" y="345" />
+              <mxPoint x="1040" y="115" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FzMrSRu2-M5TTz-W8zS9-6" value="Private Investment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FzMrSRu2-M5TTz-W8zS9-5">
           <mxGeometry x="0.4406" relative="1" as="geometry">
-            <mxPoint x="28" y="7" as="offset" />
+            <mxPoint x="-161" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FzMrSRu2-M5TTz-W8zS9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FzMrSRu2-M5TTz-W8zS9-4" target="FzMrSRu2-M5TTz-W8zS9-14">
@@ -61,6 +83,11 @@
         </mxCell>
         <mxCell id="FzMrSRu2-M5TTz-W8zS9-19" value="Exported intermedia goods&lt;br&gt;(Export Marginal costs)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FzMrSRu2-M5TTz-W8zS9-17">
           <mxGeometry x="0.8129" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzMrSRu2-M5TTz-W8zS9-54" value="Governmetnt Consumption &lt;br&gt;(Gov.consumption price)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FzMrSRu2-M5TTz-W8zS9-4" target="FzMrSRu2-M5TTz-W8zS9-49">
+          <mxGeometry x="-0.1403" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -92,9 +119,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FzMrSRu2-M5TTz-W8zS9-47" value="Private Consumption&lt;br&gt;(Consumption Price)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FzMrSRu2-M5TTz-W8zS9-46">
+        <mxCell id="FzMrSRu2-M5TTz-W8zS9-47" value="Private Consumption&lt;br&gt;(Household Consumption Price)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FzMrSRu2-M5TTz-W8zS9-46">
           <mxGeometry x="0.1788" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="45" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FzMrSRu2-M5TTz-W8zS9-40" value="Households" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;rounded=1;" vertex="1" parent="1">
@@ -110,6 +137,12 @@
           <mxGeometry x="-0.1803" y="-12" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FzMrSRu2-M5TTz-W8zS9-49" value="Government" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="842" y="232" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FzMrSRu2-M5TTz-W8zS9-50" value="Pension System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="124" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
