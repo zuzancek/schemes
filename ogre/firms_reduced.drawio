@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T10:12:09.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4gZzgdThm2RwV2IBK0Yj" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T20:41:20.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DEaxgdUbn5p1uGY8Dd_T" version="21.5.1" type="github">
   <diagram name="Page-1" id="tMCMHhbmJrTcd6gPD3CS">
     <mxGraphModel dx="1050" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ut8i8gZUw6PrzSxtRx3--5" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ut8i8gZUw6PrzSxtRx3--5" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="410" y="70" width="340" height="390" as="geometry" />
         </mxCell>
         <mxCell id="FzMrSRu2-M5TTz-W8zS9-7" value="Private Capital (rental rate)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="FzMrSRu2-M5TTz-W8zS9-1" target="FzMrSRu2-M5TTz-W8zS9-2" edge="1">
@@ -13,6 +13,19 @@
               <mxPoint x="632" y="170" />
               <mxPoint x="632" y="170" />
             </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_fv4P7vOGO97f-6VV6Nz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FzMrSRu2-M5TTz-W8zS9-1" target="FzMrSRu2-M5TTz-W8zS9-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="90" />
+              <mxPoint x="1010" y="262" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_fv4P7vOGO97f-6VV6Nz-2" value="capital tax revenues" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_fv4P7vOGO97f-6VV6Nz-1">
+          <mxGeometry x="-0.342" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -86,10 +99,10 @@
         </mxCell>
         <mxCell id="FzMrSRu2-M5TTz-W8zS9-19" value="Exported intermedia goods&lt;br&gt;(Export Marginal costs)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FzMrSRu2-M5TTz-W8zS9-17" vertex="1" connectable="0">
           <mxGeometry x="0.8129" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FzMrSRu2-M5TTz-W8zS9-54" value="Governmetnt Consumption &lt;br&gt;(Gov.consumption price)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FzMrSRu2-M5TTz-W8zS9-4" target="FzMrSRu2-M5TTz-W8zS9-49" edge="1">
+        <mxCell id="FzMrSRu2-M5TTz-W8zS9-54" value="Government Consumption &lt;br&gt;(Gov.consumption price)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FzMrSRu2-M5TTz-W8zS9-4" target="FzMrSRu2-M5TTz-W8zS9-49" edge="1">
           <mxGeometry x="-0.1403" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -149,6 +162,12 @@
         </mxCell>
         <mxCell id="FzMrSRu2-M5TTz-W8zS9-50" value="Pension System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="840" y="124" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_fv4P7vOGO97f-6VV6Nz-3" value="Private Capital Producers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="572" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_fv4P7vOGO97f-6VV6Nz-4" value="Domestic Producers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="572" y="188" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
