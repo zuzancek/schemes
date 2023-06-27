@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T21:28:05.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="amN35v7R-5AGPCEhxxr_" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T21:51:21.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8xZHrDFnrGPkNSpS9BYO" version="21.5.1" type="github">
   <diagram name="Page-1" id="kW5z09n5GGzJ1cjU40yl">
     <mxGraphModel dx="1235" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -6,36 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="dep_u9EgAYhP0aouUn1x-1" value="Retailers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="90" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dep_u9EgAYhP0aouUn1x-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dep_u9EgAYhP0aouUn1x-2" target="dep_u9EgAYhP0aouUn1x-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dep_u9EgAYhP0aouUn1x-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dep_u9EgAYhP0aouUn1x-9">
-          <mxGeometry x="0.1745" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dep_u9EgAYhP0aouUn1x-11" value="Gov.consumption Price&lt;br&gt;(Government purchase)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dep_u9EgAYhP0aouUn1x-9">
-          <mxGeometry x="0.1745" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dep_u9EgAYhP0aouUn1x-32" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dep_u9EgAYhP0aouUn1x-9">
-          <mxGeometry x="0.2375" y="8" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dep_u9EgAYhP0aouUn1x-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dep_u9EgAYhP0aouUn1x-2" target="dep_u9EgAYhP0aouUn1x-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dep_u9EgAYhP0aouUn1x-34" value="Investment price (Pub.Investment)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dep_u9EgAYhP0aouUn1x-33">
-          <mxGeometry x="-0.5008" relative="1" as="geometry">
-            <mxPoint x="-35" y="-10" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="dep_u9EgAYhP0aouUn1x-2" value="Government" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="160" width="230" height="290" as="geometry" />
@@ -65,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dep_u9EgAYhP0aouUn1x-4" value="Domestic Producers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="211" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dep_u9EgAYhP0aouUn1x-13" value="Young Households" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;rounded=1;swimlaneLine=0;" vertex="1" parent="1">
           <mxGeometry x="682" y="120" width="240" height="100" as="geometry" />
@@ -140,6 +110,73 @@
         <mxCell id="dep_u9EgAYhP0aouUn1x-37" value="VAT, Lump (social transfers)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dep_u9EgAYhP0aouUn1x-36">
           <mxGeometry x="0.6505" y="4" relative="1" as="geometry">
             <mxPoint x="95" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dep_u9EgAYhP0aouUn1x-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dep_u9EgAYhP0aouUn1x-38" target="dep_u9EgAYhP0aouUn1x-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="280" />
+              <mxPoint x="802" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dep_u9EgAYhP0aouUn1x-44" value="Public goods" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dep_u9EgAYhP0aouUn1x-43">
+          <mxGeometry x="-0.3077" y="2" relative="1" as="geometry">
+            <mxPoint x="31" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dep_u9EgAYhP0aouUn1x-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dep_u9EgAYhP0aouUn1x-38" target="dep_u9EgAYhP0aouUn1x-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="500" />
+              <mxPoint x="980" y="500" />
+              <mxPoint x="980" y="80" />
+              <mxPoint x="802" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dep_u9EgAYhP0aouUn1x-46" value="Public goods" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dep_u9EgAYhP0aouUn1x-45">
+          <mxGeometry x="-0.2086" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dep_u9EgAYhP0aouUn1x-38" value="Public goods producers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dep_u9EgAYhP0aouUn1x-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dep_u9EgAYhP0aouUn1x-39" target="dep_u9EgAYhP0aouUn1x-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="290" />
+              <mxPoint x="150" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dep_u9EgAYhP0aouUn1x-42" value="Investment goods price &lt;br&gt;(Public investment)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dep_u9EgAYhP0aouUn1x-41">
+          <mxGeometry x="0.0548" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dep_u9EgAYhP0aouUn1x-39" value="Public Capital Producers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dep_u9EgAYhP0aouUn1x-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dep_u9EgAYhP0aouUn1x-38" target="dep_u9EgAYhP0aouUn1x-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="190" y="367.53" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="365" />
+              <mxPoint x="190" y="365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dep_u9EgAYhP0aouUn1x-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dep_u9EgAYhP0aouUn1x-9">
+          <mxGeometry x="0.1745" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dep_u9EgAYhP0aouUn1x-11" value="Gov.consumption Price&lt;br&gt;(Government purchase)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dep_u9EgAYhP0aouUn1x-9">
+          <mxGeometry x="0.1745" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
