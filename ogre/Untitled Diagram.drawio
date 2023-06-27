@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T14:00:27.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4RUxGqhrxkHL9h0H-_QA" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T18:51:26.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="36QmwBHZZW7QCT_YIFsI" version="21.5.0" type="github">
   <diagram name="Page-1" id="LwMxt5M3QZReajfU4tTn">
-    <mxGraphModel dx="1052" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1052" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EisD5hn6fB4nwtun36Or-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="170" height="240" as="geometry" />
+        </mxCell>
         <mxCell id="EisD5hn6fB4nwtun36Or-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EisD5hn6fB4nwtun36Or-1" target="EisD5hn6fB4nwtun36Or-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -81,7 +84,7 @@
             <mxPoint x="88" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EisD5hn6fB4nwtun36Or-3" value="Firms &lt;br&gt;(Domestic Producers)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EisD5hn6fB4nwtun36Or-3" value="Firms &lt;br&gt;(Domestic Producers)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="600" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EisD5hn6fB4nwtun36Or-5" value="Old Households" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -102,11 +105,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EisD5hn6fB4nwtun36Or-12" value="Foreign Economy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EisD5hn6fB4nwtun36Or-12" value="Financial Market,&lt;br&gt;Banks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="370" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EisD5hn6fB4nwtun36Or-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="335" y="88" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EisD5hn6fB4nwtun36Or-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.102;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="EisD5hn6fB4nwtun36Or-27" target="EisD5hn6fB4nwtun36Or-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EisD5hn6fB4nwtun36Or-27" value="Earnings-related old age pension scheme" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="100" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
