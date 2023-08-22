@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T10:56:18.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="V5iBCbVZMCFpDKyi8ZoP" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T11:22:05.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5NimpDHqe64ATuk4KIta" version="21.6.5" type="github">
   <diagram name="Page-1" id="9Q5gtsIOphYwqksjLblg">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -151,6 +151,21 @@
         </mxCell>
         <mxCell id="5uDZrZQxL8TCu0xrzUXC-46" value="DOCH_VEK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="125" y="242" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5uDZrZQxL8TCu0xrzUXC-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="482" y="134" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5uDZrZQxL8TCu0xrzUXC-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="482" y="164" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5uDZrZQxL8TCu0xrzUXC-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="482" y="194" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5uDZrZQxL8TCu0xrzUXC-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="482" y="224" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5uDZrZQxL8TCu0xrzUXC-56" value="&lt;h1&gt;Legend&lt;/h1&gt;&lt;div&gt;currently existing, minor revision&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;newly defined in this paper&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;currently existing, explicit time dimension &amp;amp; revision needed&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;non-existing&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="539" y="95" width="391" height="175" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
