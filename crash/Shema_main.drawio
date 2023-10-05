@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T10:03:04.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="wvClaTrBKfpW985ZNSP9" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T12:26:07.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="iNOv9vLIYmXxZOkHfo3t" version="22.0.2" type="github">
   <diagram name="Page-1" id="87WC3KkdrnnZ19cBRQoI">
     <mxGraphModel dx="1852" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="1" shadow="0">
       <root>
@@ -100,7 +100,7 @@
             <mxPoint x="-540" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="owsfv4eC_n2FTrsO5rsx-53" value="Run NPC scenario given `\bb{b}` on `\cc{I}^0 = [T_{&quot;start&quot;}^{s_1}, T_{&quot;end&quot;}^{s_K}]`" style="shape=mxgraph.uml25.action;html=1;align=center;verticalAlign=middle;absoluteArcSize=1;arcSize=10;dashed=0;spacingRight=10;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="owsfv4eC_n2FTrsO5rsx-53" value="Run NPC scenario given `\bb{b}` on `\cc{I}^0 = [T_{&quot;start&quot;}^{1}, T_{&quot;end&quot;}^{K}]`" style="shape=mxgraph.uml25.action;html=1;align=center;verticalAlign=middle;absoluteArcSize=1;arcSize=10;dashed=0;spacingRight=10;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-599" y="160" width="126" height="60" as="geometry" />
         </mxCell>
         <mxCell id="owsfv4eC_n2FTrsO5rsx-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.539;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="owsfv4eC_n2FTrsO5rsx-53" target="owsfv4eC_n2FTrsO5rsx-4" edge="1">
