@@ -1,9 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T08:19:20.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.6" etag="bhR67V89nPBkGfPl9Hrr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T08:43:35.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-ltxDHxdclx24t6H7yV-" version="22.0.6" type="github">
   <diagram name="Page-1" id="PtOdQVqpJZ51PUlrXgOs">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gkyQBocSlqGiIfZizpzs-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkyQBocSlqGiIfZizpzs-1" target="gkyQBocSlqGiIfZizpzs-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-32" value="cash / &lt;br&gt;crash spending" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkyQBocSlqGiIfZizpzs-31">
+          <mxGeometry x="0.04" y="-2" relative="1" as="geometry">
+            <mxPoint x="-7" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="gkyQBocSlqGiIfZizpzs-1" target="gkyQBocSlqGiIfZizpzs-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-50" value="Policy rate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkyQBocSlqGiIfZizpzs-49">
+          <mxGeometry x="-0.0182" y="-1" relative="1" as="geometry">
+            <mxPoint x="-17" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-1" value="Government" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="93" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="gkyQBocSlqGiIfZizpzs-7" target="gkyQBocSlqGiIfZizpzs-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-48" value="Crash component" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkyQBocSlqGiIfZizpzs-47">
+          <mxGeometry x="-0.28" y="-1" relative="1" as="geometry">
+            <mxPoint x="21" y="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-7" value="Housing Market" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.312;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="gkyQBocSlqGiIfZizpzs-18" target="gkyQBocSlqGiIfZizpzs-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-52" value="Foreign Borrowings, Interest Rate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkyQBocSlqGiIfZizpzs-51">
+          <mxGeometry x="-0.0632" y="2" relative="1" as="geometry">
+            <mxPoint x="-8" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-18" value="Foreign Economy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="93" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkyQBocSlqGiIfZizpzs-26" target="gkyQBocSlqGiIfZizpzs-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="383" y="200" />
+              <mxPoint x="183" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-39" value="Loans&lt;br&gt;Interest payments" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkyQBocSlqGiIfZizpzs-35">
+          <mxGeometry x="0.6323" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="gkyQBocSlqGiIfZizpzs-26" target="gkyQBocSlqGiIfZizpzs-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="383" y="200" />
+              <mxPoint x="613" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-40" value="Loans, Deposits&lt;br&gt;Interest payments" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkyQBocSlqGiIfZizpzs-38">
+          <mxGeometry x="0.745" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="gkyQBocSlqGiIfZizpzs-26" target="gkyQBocSlqGiIfZizpzs-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-42" value="Deposits&lt;br&gt;Interest payments" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkyQBocSlqGiIfZizpzs-41">
+          <mxGeometry x="0.1236" y="-1" relative="1" as="geometry">
+            <mxPoint x="-2" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-26" value="&lt;b&gt;Banks&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="323" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="gkyQBocSlqGiIfZizpzs-27" target="gkyQBocSlqGiIfZizpzs-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-37" value="credit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkyQBocSlqGiIfZizpzs-36">
+          <mxGeometry x="-0.205" y="3" relative="1" as="geometry">
+            <mxPoint x="-2" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="gkyQBocSlqGiIfZizpzs-27" target="gkyQBocSlqGiIfZizpzs-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-44" value="Crash component" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkyQBocSlqGiIfZizpzs-43">
+          <mxGeometry x="-0.0933" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-27" value="Credit Market" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="323" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-28" value="Young Households" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="553" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="gkyQBocSlqGiIfZizpzs-29" target="gkyQBocSlqGiIfZizpzs-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-46" value="Crash component" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkyQBocSlqGiIfZizpzs-45">
+          <mxGeometry x="0.1855" y="-3" relative="1" as="geometry">
+            <mxPoint x="15" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-29" value="Retired Households" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="553" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="gkyQBocSlqGiIfZizpzs-30" target="gkyQBocSlqGiIfZizpzs-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-34" value="credit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkyQBocSlqGiIfZizpzs-33">
+          <mxGeometry x="0.0423" y="4" relative="1" as="geometry">
+            <mxPoint x="8" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkyQBocSlqGiIfZizpzs-30" value="Firms" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="93" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
