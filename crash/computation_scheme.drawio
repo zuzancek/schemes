@@ -1,9 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T14:08:21.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.3" etag="DjC7dlh0RiZl1NvJGElF" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T09:35:54.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="e5Su3vmA4r_ywDdzfinq" version="22.1.4" type="github">
   <diagram name="Page-1" id="4cjOTsyZxsAdYfcg_B9H">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4ZAL9wbFRdzYvc97d1ax-1" value="Model Calibration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZAL9wbFRdzYvc97d1ax-2" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZAL9wbFRdzYvc97d1ax-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="4ZAL9wbFRdzYvc97d1ax-2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZAL9wbFRdzYvc97d1ax-4" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="325" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZAL9wbFRdzYvc97d1ax-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="4ZAL9wbFRdzYvc97d1ax-4" parent="1" target="4ZAL9wbFRdzYvc97d1ax-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZAL9wbFRdzYvc97d1ax-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="630" y="320" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZAL9wbFRdzYvc97d1ax-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZAL9wbFRdzYvc97d1ax-7" target="4ZAL9wbFRdzYvc97d1ax-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZAL9wbFRdzYvc97d1ax-7" value="Historical Time Series&lt;br&gt;`[T_{hist}^0,T_{hist}^1]`" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZAL9wbFRdzYvc97d1ax-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZAL9wbFRdzYvc97d1ax-8" target="4ZAL9wbFRdzYvc97d1ax-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZAL9wbFRdzYvc97d1ax-8" value="Expert judgement `T_{hist}^1`" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZAL9wbFRdzYvc97d1ax-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZAL9wbFRdzYvc97d1ax-1" target="4ZAL9wbFRdzYvc97d1ax-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZAL9wbFRdzYvc97d1ax-12" value="Scenario definition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZAL9wbFRdzYvc97d1ax-17" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;model definition&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;sstate calculation (use expert judgement)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bayesian estimation of model parameters (use historical time series)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="560" y="140" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZAL9wbFRdzYvc97d1ax-18" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4ZAL9wbFRdzYvc97d1ax-1" target="4ZAL9wbFRdzYvc97d1ax-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="300" as="sourcePoint" />
+            <mxPoint x="540" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZAL9wbFRdzYvc97d1ax-19" value="Historical Time Series&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;`[T_{hist}^0,T_{hist}^1]`" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZAL9wbFRdzYvc97d1ax-20" value="Projected Time Series&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;`[T_{start},T_{end}]`" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="150" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
